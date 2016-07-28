@@ -1,0 +1,7 @@
+.tmp
+bower_components
+node_modules
+e2e-test
+layout-tests
+test
+test-results
