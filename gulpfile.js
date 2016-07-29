@@ -89,7 +89,7 @@ gulp.task('server', function() {
             "js": "node --harmony"
         },
         env: {
-            PORT: process.env.PORT || 4200
+            PORT: process.env.PORT || 80
         }
     });
 });
