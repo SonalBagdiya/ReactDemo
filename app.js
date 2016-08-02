@@ -35013,11 +35013,11 @@
 	"use strict";
 	
 	Object.defineProperty(exports, "__esModule", {
-	    value: true
+	  value: true
 	});
 	var config = {
-	    BASE_URL: "http://localhost:3000"
-	    //BASE_URL: "https://billing-server.herokuapp.com"
+	  // BASE_URL: "http://localhost:3000"
+	  BASE_URL: "https://billing-server.herokuapp.com"
 	};
 	
 	exports.default = config;
