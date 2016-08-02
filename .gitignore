@@ -1,9 +1,0 @@
-node_modules
-dist
-.idea
-npm-debug.log
-.tmp/
-.vscode/launch.json
-.vscode/tasks.json
-best-practices.md
-/node_modules
